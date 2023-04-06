@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://siddhant-iiitd.github.io/al-folio/sitemap.xml
+Sitemap: https://siddhant-iiitd.github.io/sitemap.xml
